@@ -1,4 +1,4 @@
-Static AssertFS 
+Static AssetFS 
 ===============
 
 This package is complete knockoff of the [Golang sizeof tips](https://github.com/gophergala/golang-sizeof.tips) internal package which is no longer being maintain. 
